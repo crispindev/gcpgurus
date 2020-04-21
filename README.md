@@ -1,2 +1,2 @@
-# gcpgurus.io
+# gcpgurus.github.io
 Website repo
