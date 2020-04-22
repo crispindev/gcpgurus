@@ -1,2 +1,2 @@
-# gcpgurus
+# GcpGurus
 Website repo
